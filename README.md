@@ -90,11 +90,4 @@ To build an interactive sales dashboard using Power BI that:
 ### 🚀 Project Status
 
 ✅ Completed and Uploaded  
-📌 Future Scope: Add forecasting model, RFM segmentation, sales target tracking
-
----
-
-## 🔻 Use This Line in Resume or Portfolio
-
-📊 Built a full-scale Shopify sales analytics dashboard using Power BI to analyze $4M+ in revenue, track customer retention, and visualize product + region trends. Integrated KPIs like Net Sales, Repeat Rate, and AOV using DAX and dynamic visuals.
-
+📌 Future Scope: Add forecasting model, RFM segmentation, sales target tracking.
